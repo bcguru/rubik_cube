@@ -1,0 +1,19 @@
+{
+  "name": "rubik-cube-node",
+  "version": "1.0.0",
+  "description": "Rubik Cube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "Rubik Cube",
+    "Rubik"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
